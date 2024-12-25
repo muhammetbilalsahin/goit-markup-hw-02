@@ -4,7 +4,7 @@ body {
   background-color: #ffffff;
 }
 
-.logo {
+.web {
   font-family: 'Raleway';
   font-weight: 700;
   font-size: 18px;
@@ -13,38 +13,38 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.studio {
+.web-studio {
   font-family: 'Raleway';
   color: #2e2f42;
 }
 
-.li-1 {
+.nav-list {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.li-1:hover {
+.nav-list:hover {
   color: #404bbf;
 }
-.address- {
+.address-nav {
   font-style: normal;
 }
-.address {
+.address-list {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.address:hover {
+.address-list:hover {
   color: #404bbf;
 }
-.address:focus {
+.address-list:focus {
   color: #404bbf;
 }
 
-.section-1 {
+.section-big-tittle {
   background-color: #2e2f42;
 }
 .big-tittle {
@@ -70,23 +70,23 @@ body {
 .tittle-button:focus {
   background-color: #404bbf;
 }
-.h-3 {
+.tittle-strategy {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.paragraph-1 {
+.paragraph-strategy {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.section-3 {
+.our-team-section {
   background-color: #f4f4fd;
 }
-.tittle-1 {
+.tittle-our-team {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -94,23 +94,23 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.lli-2 {
+.our-team-list {
   background-color: #ffffff;
 }
-.name- {
+.name-our-team {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.paragraph2 {
+.paragraph-our-team {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.tittlee2 {
+.tittle-our-portfolio {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -125,7 +125,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.paragraph-3 {
+.paragraph-our-portfolio {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -143,11 +143,11 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.studio- {
+.studio-web {
   font-family: 'Raleway';
   color: #f4f4fd;
 }
-.paragraph-4 {
+.paragraph-web-studio {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;

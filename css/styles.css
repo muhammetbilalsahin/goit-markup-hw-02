@@ -5,7 +5,7 @@ body {
 }
 
 .web {
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -14,7 +14,7 @@ body {
   color: #4d5ae5;
 }
 .web-studio {
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   color: #2e2f42;
 }
 
@@ -138,7 +138,7 @@ body {
   background-color: #2e2f42;
 }
 .logo {
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -147,7 +147,7 @@ body {
   color: #4d5ae5;
 }
 .studio-web {
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   color: #f4f4fd;
 }
 .paragraph-web-studio {

@@ -5,13 +5,13 @@ body {
 }
 
 .logo {
+  font-family: 'Raleway';
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  font-family: 'Raleway';
 }
 .studio {
   color: #2e2f42;
@@ -46,14 +46,14 @@ body {
 .section-1 {
   background-color: #2e2f42;
 }
-.h-1 {
+.big-tittle {
   font-size: 56px;
   color: #ffffff;
   letter-spacing: 0.02em;
   text-align: center;
   line-height: 1.07;
 }
-.button-1 {
+.tittle-button {
   background-color: #4d5ae5;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
@@ -63,10 +63,10 @@ body {
   color: #ffffff;
   cursor: pointer;
 }
-.button-1:hover {
+.tittle-button:hover {
   background-color: #404bbf;
 }
-.button-1:focus {
+.tittle-button:focus {
   background-color: #404bbf;
 }
 .h-3 {
@@ -76,7 +76,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.paragraf-1 {
+.paragraph-1 {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -93,23 +93,23 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.li-2 {
+.lli-2 {
   background-color: #ffffff;
 }
-.name-1 {
+.name- {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.paragraf-2 {
+.paragraph2 {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.tittle-2 {
+.tittlee2 {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -117,14 +117,14 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.h--3 {
+.small-tittle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.paragraf-3 {
+.paragraph-3 {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -133,8 +133,11 @@ body {
 .footer {
   background-color: #2e2f42;
 }
-.paragraf-4 {
+.paragraph-4 {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+}
+.logo-2 {
+  color: #2e2f42;
 }

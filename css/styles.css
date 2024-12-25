@@ -28,6 +28,9 @@ body {
 .nav-list:hover {
   color: #404bbf;
 }
+.nav-list:focus {
+  color: #404bbf;
+}
 .address-nav {
   font-style: normal;
 }
